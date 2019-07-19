@@ -26,9 +26,11 @@ Project Gaia
 
 ## Author
 
-szhshp
+👤 **szhshp**
 
-* Github: [https://github.com/szhielelp](https://github.com/szhielelp)
+* Github: [@szhielelp](https://github.com/szhielelp)
 * Blog: [http://szhshp.org](http://szhshp.org)
 
+## Show your support
 
+Give a ⭐️ if this project helped you!
